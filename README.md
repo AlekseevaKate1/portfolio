@@ -6,4 +6,4 @@ There is a discription of attached files:
 * parsing_journal - the file of reading OpenAlex library and creating dataset in Excel.
 * Socio_Issedovania1 - the dataset used for gender gap calculations. It was also preprocessed to define all genders of authors.
 * author_comosition - main python file of major calculations for defining gender gap.
-* Отчёт - summary of the work done.
+* Отчёт - summary of the work done. 
